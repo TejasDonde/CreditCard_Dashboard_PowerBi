@@ -1,4 +1,4 @@
-# CreditCard_Dashboard_PowerBi
+# CreditCard_PowerBi
 PowerBI Project Dashboard
 Project Objective: This project involves developing a comprehensive Power BI dashboard to provide real-time insights into key performance metrics and trends for credit card operations. The dashboard helps stakeholders monitor, analyze, and optimize financial performance, enhancing decision-making efficiency.
 
